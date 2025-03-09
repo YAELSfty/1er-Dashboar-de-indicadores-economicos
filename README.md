@@ -44,6 +44,6 @@ streamlit run dashboardindicadoreseconomicos.py
 Esto abrirá la aplicación en tu navegador.
 
 
-Yael Sandoval [Tu LinkedIn/Twitter opcional]
+Yael Sandoval
 
- ¡Dale una estrella al repo si te gustó! 
+ ¡Dale una estrella  si te gustó! 
